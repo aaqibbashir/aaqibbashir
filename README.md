@@ -1,9 +1,10 @@
-[![MasterHead](file:///C:/Users/AAQIB%20BASHIR/Downloads/CodeBasics/da%20bootcamp%20banners%20final%20list/data_to_confess_insights.png)
+[![MasterHead](![data_to_confess_insights](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/bb5047a0-6d0f-4e34-8cc6-6511e984f057))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqibbashir&label=Profile%20views&color=0e75b6&style=flat" alt="aaqibbashir" /> </p>
+
 
 - 🔭 I’m currently working on [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZWNjNDM0MjktY2I3NC00NjIwLWE5ZmMtZjhiM2Q2MDc2MGRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0d542519bd9dda372e92)
 
