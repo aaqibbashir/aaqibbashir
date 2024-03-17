@@ -1,4 +1,4 @@
-[![MasterHead](![data_to_confess_insights](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/bb5047a0-6d0f-4e34-8cc6-6511e984f057))](https://rishavchanda.io)
+![data_to_confess_insights](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/bb5047a0-6d0f-4e34-8cc6-6511e984f057)
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
