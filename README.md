@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](file:///C:/Users/AAQIB%20BASHIR/Downloads/CodeBasics/da%20bootcamp%20banners%20final%20list/data_to_confess_insights.png)
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
