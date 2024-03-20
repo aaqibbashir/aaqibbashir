@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqibbashir&label=Profile%20views&color=0e75b6&style=flat" alt="aaqibbashir" /> </p>
 
 
-- 🔭 I’m currently working on [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZWNjNDM0MjktY2I3NC00NjIwLWE5ZmMtZjhiM2Q2MDc2MGRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0d542519bd9dda372e92)
+- 🔭 I’m currently working on: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZWNjNDM0MjktY2I3NC00NjIwLWE5ZmMtZjhiM2Q2MDc2MGRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0d542519bd9dda372e92)
 
-- 🌱 I’m currently learning **data analysis, dashboard designing**
+- 🌱 I’m currently learning: **data analysis, dashboard designing**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Aaqib-Bashir](https://codebasics.io/portfolio/Aaqib-Bashir)
+- 👨‍💻 All of my projects are available at: [https://codebasics.io/portfolio/Aaqib-Bashir](https://codebasics.io/portfolio/Aaqib-Bashir)
 
-- 💬 Ask me about **Power BI, Excel, SQL, Data**
+- 💬 Ask me about:  **Power BI, Excel, SQL, Data**
 
-- 📫 How to reach me **aaqibb1@gmail.com**
+- 📫 Reach me at: **aaqibb1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
