@@ -2,10 +2,13 @@
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer  </h3>
 
+
 <img align="right" width="400" src="https://github.com/aaqibbashir/aaqibbashir/assets/6091987/76fb6664-50b0-4726-98ab-0b3dc5a04e15">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqibbashir&label=Profile%20views&color=0e75b6&style=flat" alt="aaqibbashir" /> </p>
+
+
 
 
 - 🔭 I’m currently working on: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZWNjNDM0MjktY2I3NC00NjIwLWE5ZmMtZjhiM2Q2MDc2MGRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0d542519bd9dda372e92)
