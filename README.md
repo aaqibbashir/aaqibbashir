@@ -1,7 +1,6 @@
 ![data_to_confess_insights](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/bb5047a0-6d0f-4e34-8cc6-6511e984f057)
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer  </h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <img align="right" width="400" src="https://github.com/aaqibbashir/aaqibbashir/assets/6091987/69bf7455-fe17-4b91-81fa-456eb6bc42dd">
 
