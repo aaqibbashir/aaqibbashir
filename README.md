@@ -1,4 +1,3 @@
-![data_to_confess_insights](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/bb5047a0-6d0f-4e34-8cc6-6511e984f057)
 ![LinkedIn Banner 3](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/a119c7e5-222f-4ae8-a116-4cb444f6655a)
 
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
