@@ -1,6 +1,6 @@
 ![Red Minimal Talk About Marketing LinkedIn Banner](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/ce42fd13-3d3e-4f36-9480-e648ce1f81a2)
 
-<h1 align="center">Hi 👋, I'm **AAQIB BASHIR**</h1>
+<h1 align="center">Hi 👋, I'm AAQIB BASHIR</h1>
 <h3 align="center">A passionate Data Analyst and Freelancer  </h3>
 
 
