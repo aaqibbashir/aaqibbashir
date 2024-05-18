@@ -1,5 +1,4 @@
-
-![3](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/c25ab08b-39f3-4809-8be6-e71957567b1c)
+![Red Minimal Talk About Marketing LinkedIn Banner](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/a9f67cd7-2f2f-4362-87a8-23db87f7ccf9)
 
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer  </h3>
