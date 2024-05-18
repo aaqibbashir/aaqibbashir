@@ -1,4 +1,5 @@
-![LinkedIn Banner 4](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/7e8ab6ad-0fa3-45c3-b59e-6e530d2c5568)
+
+![3](https://github.com/aaqibbashir/aaqibbashir/assets/6091987/c25ab08b-39f3-4809-8be6-e71957567b1c)
 
 <h1 align="center">Hi 👋, I'm Aaqib Bashir</h1>
 <h3 align="center">A passionate data analyst and freelancer  </h3>
