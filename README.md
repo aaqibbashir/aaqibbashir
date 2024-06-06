@@ -24,6 +24,8 @@
 
 <br/>
 
+---
+
 ### 💻 Languages and Tools:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -35,7 +37,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br/>
+---
 
 ## 🔗 Follow Me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib)
@@ -49,6 +51,7 @@
 
 <br/>
 
+---
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaqibbashir&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
