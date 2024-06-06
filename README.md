@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm AAQIB BASHIR</h1>
 <h3 align="center">A passionate Data Analyst and Freelancer  </h3>
 
-<br/>
+--- 
+
+
 <img align="right" width="400" src="https://github.com/aaqibbashir/aaqibbashir/assets/6091987/76fb6664-50b0-4726-98ab-0b3dc5a04e15">
 
 
@@ -34,11 +36,13 @@
 
 <br/>
 
-### 🌐 Follow me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib) 
+## 🔗 Follow Me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir) 
 
 <br/>
 
+---
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aaqibbashir&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
