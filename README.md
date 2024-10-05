@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **I do freelancing too**
 
-- 📫 Reach me at: **aaqibb1@gmail.com**
+- 📫 Reach me at: **aaqib.analyst@gmail.com**
 
 <br/>
 
