@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning: **Data Analysis, Power BI, SQL, Excel, Python**
 
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://codebasics.io/portfolio/Aaqib-Bashir)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://aaqibbashir.github.io/)
 
 - 💬 Ask me about:  **Data Visualization, Data Analytics**
 
