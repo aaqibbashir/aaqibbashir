@@ -1,4 +1,4 @@
-![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/0f99ea22-2736-4a5f-bb9a-ebc70d577a6e)
+![LinkedIn Banner (2)](https://github.com/user-attachments/assets/590d3f45-3fc6-4cfa-bc63-0e4c4874d3dd)
 
 
 <h1 align="center">Hi 👋, I'm AAQIB BASHIR</h1>
